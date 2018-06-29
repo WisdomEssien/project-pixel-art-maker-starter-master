@@ -4,7 +4,6 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Link to github pages](#Link to github pages)
 
 ## Instructions
 
